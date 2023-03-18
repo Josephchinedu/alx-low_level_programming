@@ -1,5 +1,3 @@
-24 lines (21 sloc)  339 Bytes
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
